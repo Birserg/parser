@@ -1,2 +1,2 @@
 # anidubparser
-Parser rate full 
+anidub.com rate parser, full anime page. 
